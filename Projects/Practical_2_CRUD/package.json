@@ -1,0 +1,9 @@
+
+{
+  "name": "file-crud-project",
+  "version": "1.0.0",
+  "description": "CRUD operations using Node.js fs module",
+  "scripts": {
+    "Practical_2": "node Practical_2.js"
+  }
+}

@@ -1,0 +1,11 @@
+
+{
+  "name": "nodejs-event-project",
+  "version": "1.0.0",
+  "description": "Node.js Event Handling Practicals",
+  "scripts": {
+    "Practical_1": "node Practical_1.js",
+    "Practical_2": "node Practical_2.js",
+    "Practical_3": "node Practical_3.js"
+  }
+}

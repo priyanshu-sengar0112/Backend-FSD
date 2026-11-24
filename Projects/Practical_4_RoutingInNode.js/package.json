@@ -1,0 +1,9 @@
+
+{
+  "name": "http-routes-project",
+  "version": "1.0.0",
+  "description": "GET POST PUT DELETE routes using Node.js",
+  "scripts": {
+    "Practical_4": "node Practical_4.js"
+  }
+}

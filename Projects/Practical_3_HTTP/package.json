@@ -1,0 +1,9 @@
+
+{
+  "name": "http-server-project",
+  "version": "1.0.0",
+  "description": "Basic HTTP Server using Node.js",
+  "scripts": {
+    "Practical_3": "node Practical_3.js"
+  }
+}

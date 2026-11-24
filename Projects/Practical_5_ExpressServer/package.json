@@ -1,0 +1,13 @@
+
+{
+  "name": "express-html-project",
+  "version": "1.0.0",
+  "description": "Express server serving HTML files using fs",
+  "main": "Practical_5.js",
+  "scripts": {
+    "Practical_5": "node Practical_5.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
